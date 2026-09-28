@@ -1,0 +1,9 @@
+{
+  "name": "atividade-3-criptografia-esteganografia",
+  "version": "1.0.0",
+  "description": "Prática de Hashing, Criptografia e Esteganografia em Node.js",
+  "main": "esteganografia.js",
+  "dependencies": {
+    "pngjs": "^7.0.0"
+  }
+}
